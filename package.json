@@ -1,5 +1,5 @@
 {
-    "name": "serve-spa",
+    "name": "@2dprototype/serve-spa",
     "version": "1.0.0",
     "description": "A CLI tool to serve Single Page Applications with QR code support",
     "main": "lib/server.js",
